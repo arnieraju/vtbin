@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="ATracker.SpAddinWeb.Services.RERApprovalTracking" CodeBehind="RERApprovalTracking.svc.cs" %>

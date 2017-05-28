@@ -1,0 +1,17 @@
+﻿body {
+}
+
+
+.container {
+    padding:20px;
+}
+
+.site-container {
+    border-bottom: 1px solid #BABABA;
+    margin-bottom: 10px;
+    padding-bottom:20px;
+}
+
+.library-container{
+    margin-bottom:1px;
+}
